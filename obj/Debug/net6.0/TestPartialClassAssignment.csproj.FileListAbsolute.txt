@@ -1,0 +1,7 @@
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.csprojAssemblyReference.cache
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.AssemblyInfoInputs.cache
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.AssemblyInfo.cs
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.csproj.CoreCompileInputs.cache
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.MvcApplicationPartsAssemblyInfo.cache
+/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/Debug/net6.0/TestPartialClassAssignment.csproj.AssemblyReference.cache

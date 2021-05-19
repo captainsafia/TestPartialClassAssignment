@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/captainsafia/Verifications/TestPartialClassAssignment/TestPartialClassAssignment.csproj": {}
+  },
+  "projects": {
+    "/Users/captainsafia/Verifications/TestPartialClassAssignment/TestPartialClassAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/captainsafia/Verifications/TestPartialClassAssignment/TestPartialClassAssignment.csproj",
+        "projectName": "TestPartialClassAssignment",
+        "projectPath": "/Users/captainsafia/Verifications/TestPartialClassAssignment/TestPartialClassAssignment.csproj",
+        "packagesPath": "/Users/captainsafia/.nuget/packages/",
+        "outputPath": "/Users/captainsafia/Verifications/TestPartialClassAssignment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/captainsafia/Verifications/TestPartialClassAssignment/NuGet.Config",
+          "/Users/captainsafia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21152.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21152.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.0-preview.6.21269.1, 6.0.0-preview.6.21269.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/captainsafia/.dotnet/sdk/6.0.100-preview.6.21269.6/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
