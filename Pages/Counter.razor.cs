@@ -1,4 +1,7 @@
-public partial class Counter
+namespace TestPartialClassAssignment.Pages
 {
-    private bool showSomething = false;
+    public partial class Counter
+    {
+        private bool showSomething = false;
+    }
 }
